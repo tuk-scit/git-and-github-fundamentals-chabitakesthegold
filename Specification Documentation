@@ -1,0 +1,78 @@
+Nderitu Chabi SCCI/00762/2019
+Edibles( A food ordering system)
+10/24/2022
+Overview
+
+Project Background and Description
+Edibles is a web based app that allows TUK students to order meals from the Edibles school canteen in the premises. Student will register using their google accounts. On registration they will be able to browse through the different meal categories and add o cart the items they want to order. The web app shold be able to allow the students to input a delivery location and make payments through mpesa.
+
+Project Scope
+
+In order to achieve this project i will need to implement a responsive website that is accessible to the end user via low to high end smartphones, small devices laptops and desktop computers.
+The system is aimed at offering :
+Simple user registration and authentication
+Order management- Allow the admin account to modify the menu
+Push notifications - Alert users on discounts 
+Add to cart features- add and remove items to cart 
+Easy payment
+
+Available modules
+Registration module.
+This module should allow a user to log in using their google accounts
+A particular google account can be assigned the admin role to carry out order management
+
+Menu module
+Is the core of the web app. It provides a platform for users to see available meals and their prices. The different meal categories will be displayed here.
+
+Cart module.
+Enables users to see what is present in the cart. Users can remove an ordered item from here.
+
+Payment module.
+This module will handle the payment procedure and delivery.
+
+Notifications module
+This module should handle push notifications and alerts .
+
+
+
+3. High-Level Requirements
+The system is a simple web based application. It can be accessed on any  device with internet capabilities and the latest browser.
+The new system must include the following:
+Ability to allow both end and admin users to access the web application without downloading any additional software
+Mpesa integration as a mode of payment.
+
+4. Deliverables
+Back-end database hosted in the cloud.
+Responsive web based application .
+User documentation manual.
+Technical documentation
+
+5. Affected Parties
+Management-Edibles staff
+End users-Students
+
+6. Affected Business Processes or Systems
+User registration
+Ordering process
+Payment process
+Order delivery
+7. Specific Exclusions from Scope
+The following features  will be excluded from development and will be implemented subsequent phases: -
+Direct MPESA connection through the API, that will enable real-time in app payments
+An order tracking module.
+An ratings and reviews module
+Integration with existing systems (if any).
+
+
+8. Implementation Plan
+The project will kick off with the development of the UI prototype. Once aprorotype is approved development will begin.
+
+
+9.High level timeline
+
+
+
+
+
+
+
